@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sunrise</string>
+    <string name="my_location">Моє місцерозташування</string>
+    <string name="lengt_day">Довжина дня</string>
+    <string name="sunrise">Схід сонця</string>
+    <string name="sunset">Захід сонця</string>
+    <string name="received">Отримано</string>
+</resources>

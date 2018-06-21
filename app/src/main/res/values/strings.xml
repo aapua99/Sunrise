@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sunrise</string>
+    <string name="my_location">My current\n location</string>
+    <string name="lengt_day">The length of the day</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="received">Received</string>
+</resources>
